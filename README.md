@@ -49,6 +49,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Special thanks to all team members for their contributions to this project.
 - Hat tip to anyone whose code or resources were used during development.
 
-## Contact Information:
-
-For inquiries or support, please contact [email@example.com](mailto:email@example.com).
